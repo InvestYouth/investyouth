@@ -1,0 +1,8 @@
+{
+  "name": "InvestYouth India",
+  "description": "Authorized Person for FYERS Securities. Empowering Indian youth to master stock market investing, mutual funds, SIPs, and wealth creation with interactive calculators and zero delivery brokerage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
